@@ -1,8 +1,8 @@
 # SLCM terminal scraper
 
-This project has been made by my sheer hatred for the Student Life Cycle Management website(SLCM) for my university. [SLCM](https://slcm.manipal.edu/)\
+This project has been made by my sheer hatred for the Student Life Cycle Management website(SLCM) for my university. [SLCM](https://slcm.manipal.edu/)/
 
-If you're tired of having to open this website to view basic details like attendance and internal marks, set up this package and get various functionalities through the command line directly.\
+If you're tired of having to open this website to view basic details like attendance and internal marks, set up this package and get various functionalities through the command line directly./
 
 ## Linux setup
 
